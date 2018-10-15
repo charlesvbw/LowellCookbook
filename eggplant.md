@@ -4,7 +4,6 @@ Ingredients:
     parmesan cheese
     1 egg
     Salt
-    Pepper
     Oregano
 
 
