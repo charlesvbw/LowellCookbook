@@ -2,7 +2,6 @@ Recipe for eggplant parm
 Ingredients:
     eggplant
     parmesan cheese
-    bread crumbs
     1 egg
     Salt
     Pepper
